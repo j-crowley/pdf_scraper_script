@@ -1,6 +1,6 @@
 # pdf_scraper_script
 ### Description:
-Python PDF scraping and processing script for converting tabular data in pdfs to extractable .csv files.
+Python PDF scraping and processing script for converting tabular data in pdfs to extractable .csv files. (Early 2025)
 
 ### Background: 
 This script was a volunteer project for local MA campaign managed by a family friend. The organization needed helping compiling contact and outreach information from a PDF with embedded tabular data. Results of this project were ~330 of the ~350 contacts within seconds instead of days of tedious volunteer work.
